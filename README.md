@@ -57,17 +57,8 @@ Organizations can utilize these insights to:
 - Design flexible work policies  
 - Foster an inclusive workplace culture  
 - Tailor onboarding and professional development programs  
+  
 
----  
 
-### Contact & Contributions  
-For further information, insights, or collaboration, please contact [Your Contact Information].  
 
----  
 
-### License  
-This project is shared for educational and organizational use. Please attribute appropriately if used in reports or presentations.  
-
----  
-
-Would you like me to generate this as a `.md` file that you can upload directly, or do you need it in a different format?
